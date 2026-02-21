@@ -1,51 +1,11 @@
+<<<<<<< HEAD
 
 # CineRank – Modern Movies & People Discovery Platform
 
 A modern React + Tailwind application for discovering movies, TV series, and popular celebrities (people) using real data from The Movie Database (TMDB). The platform now emphasizes rich browsing, people exploration, progressive content reveal sections, a refined glassmorphic UI, and first‑class authentication with Clerk.
 
-## 🌐 Live Demo
-
 Production Deployment: <https://cinerank-tau.vercel.app>
-
-> If the link 404s shortly after a new deploy, wait a few seconds and refresh while DNS / CDN edges propagate.
-
-## 🚀 Core Features
-
-- **Real Movie & TV Data**: TMDB-powered (movies, TV series, trending, upcoming, now playing)
-- **People / Celebs Module**: Browse popular celebrities and view detailed biography + "Known For" credits
-- **Progressive Sections**: Weekly Picks & Popular Celebs with in-place "See more" expansion (no page reload/navigation)
-- **Advanced Filter Popover**: Multi-genre selection, language filtering, rating/year sliders, clear & apply controls
-- **Stable Routing IDs**: Added internal `tmdbId` to ensure correct detail navigation (fixes mismatched pages)
-- **Unified Glass Buttons**: Reusable `LiquidButton` component for consistent glassmorphic CTAs
-- **Modern Grid UI**: Responsive, accessible layouts with consistent spacing & large expressive headings
-- **Local Ratings (Extensible)**: Context + localStorage patterns ready for persistent personalization
-- **Authentication with Clerk**: Drop-in auth UI, session management, and a personalized user dropdown
-   - User dropdown now includes: Wishlist and Reviews (via Clerk)
-   - Header cleaned up: Wishlist button removed; access via user menu
-   - Clerk authentication UI and dropdown now match the site's dark theme
-- **Context-driven State**: Central `MovieContext` aggregates movies, TV, people & details
-- **Performance Friendly**: Conditional rendering, chunked lists, progressive reveal
-
-> Header no longer shows a standalone Wishlist link; use the user dropdown (Clerk) for Wishlist and Reviews.
-> Clerk SignIn/SignUp and dropdown are themed to match the site's dark mode for a seamless experience.
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-- **React 18** - Modern React with functional components and hooks
-- **React Router DOM** - Client-side routing and navigation
-- **Tailwind CSS** - Utility-first CSS framework for styling
-- **Context API** - Global state management
-- **Custom Hooks** - Reusable logic with localStorage integration
-
-
-### API & Services
-
-- **TMDB API** - The Movie Database API for real movie data
 - **Axios** - HTTP client for API requests
-- **Service Layer** - Organized API service architecture
-
 
 ### Development Tools
 
@@ -351,3 +311,6 @@ If you have any questions or need help setting up the project, please create an 
 
 
 Built with ❤️ using modern web technologies.
+=======
+# CineRank
+>>>>>>> 531bed5173501e21bd82e8bdbd914926aa715fb1
