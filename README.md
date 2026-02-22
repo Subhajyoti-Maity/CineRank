@@ -91,7 +91,6 @@ CineRank/
 ├── src/
 │   ├── App.css
 │   ├── App.js
-│   ├── index.js
 │   ├── components/
 │   ├── context/
 │   ├── data/
@@ -154,6 +153,7 @@ MIT License – see [LICENSE](LICENSE)
 ## 📞 Support
 For questions or help, create an issue or contact the development team.
 
+
+😊 **Author:** Subhajyoti Maity
 ---
 
-Built with ❤️ using modern web technologies.
