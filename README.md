@@ -137,23 +137,18 @@ REACT_APP_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 ---
 
 ## 🤝 Contributing
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+
+Contributions are welcome! Please fork the repository and open a pull request.
+
+Please ensure your code follows the project's style and passes all tests. If you have questions, open an issue before starting major work.
+
+### 💬 Support
+If you need help, have questions, or want to report an issue:
+- Please open an issue on the GitHub repository for bug reports or feature requests.
+- For direct contact, email the development team via the email address listed on the GitHub profile.
 
 ---
 
-## 📄 License
-MIT License – see [LICENSE](LICENSE)
-
----
-
-## 📞 Support
-For questions or help, create an issue or contact the development team.
-
-
-😊 **Author:** Subhajyoti Maity
----
+### 👤 Author
+Subhajyoti Maity
 
